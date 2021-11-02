@@ -1,0 +1,4 @@
+#Tue Nov 02 15:37:19 SGT 2021
+base.0=/home/amirul/Documents/BeSquare/4_251021MobileDevelopment/md_besquare_day7/fire_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
